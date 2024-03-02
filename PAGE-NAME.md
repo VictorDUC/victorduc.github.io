@@ -1,4 +1,7 @@
+---
 layout: page
-title: "PAGE-TITLE"
-permalink: /about/contact/
+title: About me
+permalink: /me/
+---
 
+## Contact Me
